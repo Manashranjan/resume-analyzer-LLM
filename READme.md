@@ -16,23 +16,22 @@ This project leverages Google's Gemini 1.5 model to analyze resumes and job desc
 
 ## 🛠️ Tech Stack
 
-- **Backend**: :contentReference[oaicite:14]{index=14}
-- **Libraries**: :contentReference[oaicite:15]{index=15}
-- **Frontend**: :contentReference[oaicite:16]{index=16}
-- **Deployment**: :contentReference[oaicite:17]{index=17}
+- **Backend**: :Python, Google Geimini 1.5 API
+- **Libraries**: :Google-GenerativeAI, pdf2image
+- **Frontend**: :Streamlit (UI framework)
 
 ## 📥 Installation
 
 ### Prerequisites
 
-- :contentReference[oaicite:19]{index=19}
-- :contentReference[oaicite:20]{index=20}
+- :python 3.12
+- :pip
 
 ### Setup
 
-1. :contentReference[oaicite:22]{index=22}
+1. :Clone the repository
 
    ```bash
    git clone https://github.com/Manashranjan/resume-analyzer-LLM.git
-   cd resume-analyzer-llm
+   
 
